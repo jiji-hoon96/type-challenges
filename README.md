@@ -1,10 +1,3 @@
-<p align='center'>
-  <img src='./screenshots/jihoon-logo.png' width='400'/>
-</p>
-
-
-<br>
-
 # 풀어야 할 문제들
 
 <!--challenges-start-->
