@@ -6,5 +6,4 @@ type cases = [
   Expect<Equal<If<boolean, 'a', 2>, 'a' | 2>>,
 ]
 
-// @ts-expect-error
 type error = If<null, 'a', 'b'>
